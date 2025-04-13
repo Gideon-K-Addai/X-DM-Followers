@@ -1,0 +1,7 @@
+config.yml
+*.log
+*.png
+followers_list.txt
+followers.txt
+messaged_fail.json
+messaged_followers.json
